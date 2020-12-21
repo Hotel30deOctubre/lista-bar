@@ -1,0 +1,36 @@
+body {background:url(../imagenesqr/mármol-blanco-con-vance-negro-de-alta-resolución-123548150.jpg);
+	background-repeat:repeat-y;
+	background-attachment:scroll;
+	background-size:1400px; 
+ 	}
+h1 {font-size:40px }
+
+h2 {font-size:30px;}
+
+table {font-size:20px;}
+
+
+h1 {margin:10px; }
+
+div {
+	width:950px;                   /*ancho*/
+	margin:10px;                  /*margen*/
+	background:silver;           /*fondo*/
+	padding:10px;                /*margen interno*/
+	border:5px solid black;      /*bordes*/
+	display:inline-block;                              /*tipo de bloque que se quiere*/
+	} 
+img {margin:10px;
+	border-radius:10px;
+	display:inline-block;
+	width:70px;
+	box-shadow:2px 2px 0px #ccc;    
+	}
+
+.caja {
+	position:relative;
+	top:;
+	bottom:;
+	right:;
+	left:;    
+	}
