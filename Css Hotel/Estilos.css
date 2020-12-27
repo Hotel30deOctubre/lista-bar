@@ -12,7 +12,7 @@ table {font-size:20px;}
 
 h1 {margin:10px; }
 
-div {
+div {color:black; 
 	width:950px;                   /*ancho*/
 	margin:10px;                  /*margen*/
 	background:silver;           /*fondo*/
